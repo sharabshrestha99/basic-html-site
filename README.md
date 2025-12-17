@@ -38,14 +38,14 @@ basic-html-site/
 │
 └── index.html
 
-````
+```
 
 ## How to Use
 
 1. Clone the repository:
    ```bash
    git clone https://github.com/sharabshrestha99/basic-html-site.git
-````
+   ```
 
 2. Navigate into the project folder:
 
