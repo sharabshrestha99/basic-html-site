@@ -5,8 +5,8 @@ No CSS, no JavaScript, no frameworks — just clean, standards-compliant HTML.
 
 ## Repository
 
-- **Repository Name:** basic-html-site  
-- **GitHub Link:** https://github.com/sharabshrestha99/basic-html-site  
+- **Repository Name:** basic-html-site
+- **GitHub Link:** https://github.com/sharabshrestha99/basic-html-site
 
 ## Overview
 
@@ -43,6 +43,7 @@ basic-html-site/
 ## How to Use
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/sharabshrestha99/basic-html-site.git
    ```
@@ -52,25 +53,25 @@ basic-html-site/
    ```bash
    cd basic-html-site
    ```
+
 3. Open `index.html` in any web browser.
 
 No build tools, dependencies, or configuration required.
 
 ## Intended Use
 
-* Learning basic HTML structure
-* Practicing semantic markup
-* Serving as a starting point for:
-
-  * Adding CSS styling
-  * Introducing JavaScript functionality
-  * Converting into a multi-page site
+- Learning basic HTML structure
+- Practicing semantic markup
+- Serving as a starting point for:
+  - Adding CSS styling
+  - Introducing JavaScript functionality
+  - Converting into a multi-page site
 
 ## Limitations (By Design)
 
-* No styling (CSS)
-* No interactivity (JavaScript)
-* Single-page layout
+- No styling (CSS)
+- No interactivity (JavaScript)
+- Single-page layout
 
 These omissions are intentional to keep the focus strictly on HTML structure.
 
